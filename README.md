@@ -4,4 +4,4 @@
 
 <!-- [Clique aqui para visualisar o projeto](https://alanpedrod.github.io/euro-tour/) -->
 
-<a href="https://alanpedrod.github.io/euro-tour/" target="_blank">Visite meu projeto no GitHub Pages</a>
+<a href="https://alanpedrod.github.io/euro-tour/" target="_blank" rel="noopener noreferrer">Visite meu projeto no GitHub Pages</a>
